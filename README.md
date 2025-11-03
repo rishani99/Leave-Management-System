@@ -26,7 +26,8 @@ This is a Leave Management System built using **Java Swing**, **OOP**, and **MyS
 ## Screenshots
 
 (Home UI)
-<img width="602" height="481" alt="image" src="https://github.com/user-attachments/assets/d98109d1-8d25-474f-83d7-0d77ee2483e4" />
+<img width="596" height="491" alt="image" src="https://github.com/user-attachments/assets/7673bea3-e92f-4fab-8788-3b71e686b579" />
+
 
 (Employee Dashboard UI)
 <img width="1104" height="632" alt="image" src="https://github.com/user-attachments/assets/f07a2b51-5568-43cb-b463-45959b4f0597" />
